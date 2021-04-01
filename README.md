@@ -38,7 +38,7 @@ Publications
 Potential publications
 
 -   K. Brezinski, “Journal name”
-    [Journal name and info](http://www.google.ca).
+    [Journal publication and info](http://www.google.ca).
 
 Acknowledgments
 ---------------
